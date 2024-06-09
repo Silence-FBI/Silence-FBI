@@ -1,5 +1,4 @@
-- I’m interested in automatic things
-- I’m currently learning python
+- I’m currently learning fullstack web development 
 
 <!---
 Silence-FBI/Silence-FBI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
