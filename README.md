@@ -1,4 +1,4 @@
-<h1 style="color:red;">- I’m currently learning fullstack web development</h1>
+<h1>- I’m currently learning fullstack web development</h1>
 
 
 <!---
