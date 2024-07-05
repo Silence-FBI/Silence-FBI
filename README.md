@@ -1,4 +1,5 @@
-<h1>- I’m currently learning fullstack web development</h1>
+<h3>- I’m currently learning fullstack web development</h3>
+i havent been doing this very long but its mostly for fun and as a backup job if needed
 
 
 <!---
