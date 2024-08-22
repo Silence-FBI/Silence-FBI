@@ -1,5 +1,5 @@
 <h3>- I’m currently learning fullstack web development</h3>
-i havent been doing this very long but its mostly for fun and as a backup job if needed
+so far have learned html, some css, learning js and sql then react, node
 
 
 <!---
